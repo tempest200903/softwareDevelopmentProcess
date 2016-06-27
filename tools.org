@@ -16,3 +16,5 @@
 - https://chocolatey.org/packages/Graphviz
 ** R
 - https://chocolatey.org/packages/R.Project
+** WinMerge
+- http://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html
